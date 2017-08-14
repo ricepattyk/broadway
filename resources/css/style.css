@@ -8,14 +8,14 @@ h1 {
 }
 
 .hero {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   color: white;
   font-weight: bold;
 }
 
-.hero p {
-  text-decoration: underline;
+.btn-nav {
   font-size: 18px;
+  color: white;
 }
 
 h2 {
